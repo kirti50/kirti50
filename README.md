@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**kirti50/kirti50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Kirti
 
-Here are some ideas to get you started:
+### 💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning Python, Java, and Web Development.
+- 🔭 I'm working on improving my coding skills.
+- 🎯 My goal is to become a Software Developer.
+- 💬 Ask me about HTML, CSS, JavaScript.
+- 📫 Contact me: choprakirti1210@gmail.com
+### 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
